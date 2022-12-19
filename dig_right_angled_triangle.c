@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main()
 {
     int i,n;
@@ -11,7 +10,5 @@ int main()
         }
         printf("\n");
     }
-    
-
     return 0;
 }
